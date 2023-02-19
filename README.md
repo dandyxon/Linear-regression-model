@@ -1,2 +1,2 @@
 # Linear-regression-model
-Implementation of linear regression using different waysof optimization.
+Implementation of linear regression using different ways of optimization.
